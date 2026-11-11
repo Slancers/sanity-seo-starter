@@ -28,10 +28,12 @@ It ships with a fully built demo site for **Harbor & Pine**, a *fictional* inter
 
 ## Quick start
 
+**Tip:** click **[Use this template](https://github.com/Slancers/sanity-seo-starter/generate)** to get your own copy on GitHub (you'll need one to deploy), then clone *that* repo instead of the URL below.
+
 ### With Claude Code (easiest)
 
 ```bash
-git clone <your-fork-url> my-site
+git clone https://github.com/Slancers/sanity-seo-starter.git my-site
 cd my-site
 claude
 ```
@@ -45,7 +47,7 @@ Using Cursor, Codex or another agent? Ask it to *"follow the 'First conversation
 ### By hand
 
 ```bash
-git clone <your-fork-url> my-site
+git clone https://github.com/Slancers/sanity-seo-starter.git my-site
 cd my-site
 npm install
 npm run setup
